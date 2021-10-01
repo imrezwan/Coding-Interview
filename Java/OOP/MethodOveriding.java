@@ -14,6 +14,7 @@ public class MethodOveriding {
 
 
 class ChildClass extends ParentClass{
+    @Override  //optional
     public void talk(){
         System.out.println(" I am from Child Class");
     }
