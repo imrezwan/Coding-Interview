@@ -5,7 +5,7 @@ package OOP;
 // Covariant return type: each method from different class's return type must be same or subclass
 // final method, private method, static method can not be "override"
 // constructor can not be override
-public class MethodOverloading {
+public class MethodOveriding {
     public static void main(String[] args) {
         ParentClass obj = new ChildClass();
         obj.talk(); //child class's talk() method overriden parent class's talk() method

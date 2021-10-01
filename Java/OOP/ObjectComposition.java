@@ -1,7 +1,5 @@
 package OOP;
 
-import java.awt.*;
-
 public class ObjectComposition {
 
     public static void main(String[] args) {
